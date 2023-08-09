@@ -1,8 +1,10 @@
 ## Projeto 13: Deep Learning - Convolutional Neural Network - Plant Disease Prediction System
 
-Neste projeto de Inteligência Artificial (IA), focado em Deep Learning, explorei recursos avançados de IA para resolver um desafio importante na agricultura - o reconhecimento de doenças em plantas.
+Ferramentas: Python, Keras e Tensorflow
 
-💡 Neste projeto, construí uma Rede Neural Convolucional (CNN), uma técnica poderosa de Deep Learning, para identificar doenças em plantas através da análise de imagens.
+Neste projeto explorei recursos avançados de Inteligência Artificial para resolver um desafio importante na agricultura - o reconhecimento de doenças em plantas.
+
+Neste projeto, construí uma Rede Neural Convolucional (CNN), uma técnica poderosa de Deep Learning, para identificar doenças em plantas através da análise de imagens.
 
 O que é uma Rede Neural Convolucional (CNN)?
 Uma Rede Neural Convolucional é um tipo de Rede Neural Artificial projetada para processar dados de grade, como imagens. Ela é altamente eficaz na extração de recursos e padrões em imagens, tornando-a ideal para tarefas de visão computacional, como reconhecimento de objetos, classificação de imagens e, no nosso caso, detecção de doenças em plantas.
