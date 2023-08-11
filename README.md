@@ -1,3 +1,38 @@
+## Project 13: Deep Learning - Convolutional Neural Network - Plant Disease Prediction System
+
+In this project, I delved into advanced Artificial Intelligence resources to tackle a pivotal challenge in agriculture - the recognition of plant diseases.
+
+Tools: Python, Keras, and TensorFlow
+
+In this undertaking, I constructed a Convolutional Neural Network (CNN), a potent Deep Learning technique, to discern plant diseases via image analysis.
+What is a Convolutional Neural Network (CNN)?
+
+A Convolutional Neural Network is a type of Artificial Neural Network designed for grid data, such as images. It excels at extracting features and patterns from images, rendering it ideal for computer vision tasks, including object recognition, image classification, and, in our case, plant disease detection.
+
+Deep Learning is a technique within Machine Learning employing deep neural networks to learn intricate patterns in data, particularly in computer vision and natural language processing tasks.
+
+Project Workflow:
+1 - Image Visualization: I initiated the process by exploring dataset images, utilizing the Matplotlib library to plot image samples of afflicted plants.
+
+2 - Image Preprocessing: I converted images into numerical arrays, normalizing pixel values to facilitate model training.
+
+3 - Class Balancing: I assessed class balance (healthy plants vs. plants with diseases) to ensure a well-structured dataset for training.
+
+4 - Data Splitting and Encoding: I partitioned the dataset into training and testing/validation sets, employing the One Hot Encoder for categorical variables.
+
+5 - CNN Architecture Design and Training: I devised the Convolutional Neural Network architecture, configuring convolutional layers, max-pooling layers, and dense layers. I compiled the model with appropriate loss function and optimizer, subsequently training the neural network.
+
+6 - Evaluation and Results Visualization: I gauged CNN performance using test data and generated precision and loss charts during training for visualization.
+
+7 - Predictions and Visualization: I harnessed the trained model to make predictions on test data, comparing actual classifications with predictions to obtain a comprehensive grasp of model capacity.
+
+Conclusion:
+The application of Deep Learning in agriculture, such as plant disease detection, possesses the potential to revolutionize food cultivation methods. This approach not only swiftly identifies diseases but may also facilitate more effective and timely responses, minimizing losses and maximizing yields. As the global population continues to expand, this technology exerts a significant impact on food security and sustainable development.
+
+_
+Portuguese
+_
+
 ## Projeto 13: Deep Learning - Convolutional Neural Network - Plant Disease Prediction System
 
 Ferramentas: Python, Keras e Tensorflow
