@@ -29,9 +29,9 @@ Project Workflow:
 Conclusion:
 The application of Deep Learning in agriculture, such as plant disease detection, possesses the potential to revolutionize food cultivation methods. This approach not only swiftly identifies diseases but may also facilitate more effective and timely responses, minimizing losses and maximizing yields. As the global population continues to expand, this technology exerts a significant impact on food security and sustainable development.
 
-_
+__________
 Portuguese
-_
+__________
 
 ## Projeto 13: Deep Learning - Convolutional Neural Network - Plant Disease Prediction System
 
